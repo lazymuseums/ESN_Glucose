@@ -14,7 +14,7 @@ Personal authentication via output accuracy of the future or past blood glucose 
 node-noise.py  
 Calculate prediction accuracy as a function of the number of nodes in the Echo State Network.
 ## Reference
-The code is based on the code downloaded from (http://www.morikita.co.jp/books/mid/08531)
+The code is based on the code downloaded from (http://www.morikita.co.jp/books/mid/085531)
 
 ## Requirements
 - Python 3.10.9
