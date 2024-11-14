@@ -4,6 +4,7 @@
 https://www.nature.com/articles/s43246-024-00621-1
 ## Getting started
 Download time-series blood glucose level datasets from the following (https://public.jaeb.org/datasets/diabetes).
+(In this study "A Study to Assess Continuous Glucose Sensor Profiles in Healthy Non-Diabetic Participants Aged <7 Years" was used)
 ## File
 sugar_predict.py  
 Realtime prediction of the blood glucose level by Echo State Network.  
@@ -16,5 +17,5 @@ Calculate prediction accuracy as a function of the number of nodes in the Echo S
 ## Reference
 The code is based on the code downloaded from (http://www.morikita.co.jp/books/mid/085531)
 
-## Requirements
-- Python 3.10.9
+## Python version
+3.10.9
